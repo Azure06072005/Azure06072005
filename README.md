@@ -7,12 +7,10 @@
   <meta charset="UTF-8">
 </head>
 <body style="background-color: #0d1117; color: #c9d1d9; font-family: 'Segoe UI', sans-serif; margin: 20px;">
-  <p>
     🔭 I'm a student at VNU-HCM University of Information Technology.<br>
     💬 Ask me about machine learning and data science.<br>
     📫 Contact me: <a href="mailto:trananhkiet06072005@gmail.com" style="color:#58a6ff;">trananhkiet06072005@gmail.com</a><br>
     ⚡ Fun fact: I'm outgoing but sometimes serious, and I love outdoor activities.
-  </p>
 <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" style="max-width: 100%" >
 <h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px;">✍️ My Favorite Quote</h2>
 <p style="font-style: italic; font-size: 1.1em;">“Even in surrender, a spark remains enough to ignite the will to rise again.”</p>
