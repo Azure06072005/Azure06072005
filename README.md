@@ -6,11 +6,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>GitHub Profile - Tran Anh Kiet</title>
 </head>
 <body style="background-color: #0d1117; color: #c9d1d9; font-family: 'Segoe UI', sans-serif; margin: 20px;">
 
-  <h1 style="color: #58a6ff;">👋 Hello World! I'm Tran Anh Kiet</h1>
 
   <p>
     🔭 I'm a student at VNU-HCM University of Information Technology.<br>
