@@ -9,7 +9,6 @@
 </head>
 <body style="background-color: #0d1117; color: #c9d1d9; font-family: 'Segoe UI', sans-serif; margin: 20px;">
 
-
   <p>
     🔭 I'm a student at VNU-HCM University of Information Technology.<br>
     💬 Ask me about machine learning and data science.<br>
@@ -25,16 +24,11 @@
     <a href="mailto:trananhkiet06072005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   </p>
 
-  <div style="align:right">
-      <img src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="Illustration" style="width: 100%; max-width: 300px; border-radius: 12px;">
-    </div>
-  </div>
-
   <h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px; margin-top: 40px;">💻 Languages & Tools</h2>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
     
-  <div style="flex: 1 1 500px; width: 40%">
+  <div style="flex: 1 1; max-width: 60%">
       <h3 style="color: #58a6ff;">🌐 Web Development</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
         <img src="https://skillicons.dev/icons?i=html" style="width:48px; height:48px;">
@@ -54,7 +48,7 @@
         <img src="https://skillicons.dev/icons?i=python" style="width:48px; height:48px;">
         <img src="https://skillicons.dev/icons?i=tensorflow" style="width:48px; height:48px;">
         <img src="https://skillicons.dev/icons?i=pytorch" style="width:48px; height:48px;">
-        <img src="https://skillicons.dev/icons?i=scikit-learn" style="width:48px; height:48px;">
+        <img src="https://skillicons.dev/icons?i=sklearn" style="width:48px; height:48px;">
         <img src="https://cdn.brandfetch.io/matplotlib.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" style="width:48px; height:48px;">
         <img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" style="width:48px; height:48px;">
         <img src="https://s3-sgn09.fptcloud.com/codelearnstorage/Upload/Blog/thu-vien-plotly-trong-python-la-gi-63725719077.0314.jpg" style="width:48px; height:48px;">
@@ -69,11 +63,17 @@
       </div>
     </div>
 
+  <div style="flex: 1 1; text-align: right; max-width: 40%">
+      <img src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="Illustration" style="width: 100%; max-width: 300px; border-radius: 12px;">
+    </div>
+  </div>
+
   <h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px;">✍️ My Favorite Quote</h2>
   <p style="font-style: italic; font-size: 1.1em;">“Even in surrender, a spark remains enough to ignite the will to rise again.”</p>
 
 </body>
 </html>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Azure06072005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
