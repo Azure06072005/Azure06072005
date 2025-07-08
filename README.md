@@ -14,7 +14,8 @@
     ⚡ Fun fact: I'm outgoing but sometimes serious, and I love outdoor activities.
   </p>
 <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" style="max-width: 100%" >
-
+<h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px;">✍️ My Favorite Quote</h2>
+<p style="font-style: italic; font-size: 1.1em;">“Even in surrender, a spark remains enough to ignite the will to rise again.”</p>
   <h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px; margin-top: 40px;">🌐 Socials</h2>
   <p>
     <a href="https://www.facebook.com/tran.kiet.215694/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
@@ -67,8 +68,7 @@
     </div>
   </div>
 
-  <h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px;">✍️ My Favorite Quote</h2>
-  <p style="font-style: italic; font-size: 1.1em;">“Even in surrender, a spark remains enough to ignite the will to rise again.”</p>
+
 
 </body>
 </html>
