@@ -7,10 +7,15 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tran.kiet.215694/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/azure_2005/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ki%E1%BB%87t-tr%E1%BA%A7n-anh-93970a274/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trananhkiet06072005@gmail.com) 
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tran.kiet.215694/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/azure_2005/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ki%E1%BB%87t-tr%E1%BA%A7n-anh-93970a274/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trananhkiet06072005@gmail.com) 
 
 ## ✍️ My favorite quote
 <p>Even in surrender, a spark remains enough to ignite the will to rise again</p>
+
+<p style="border-radius: 12px">
+  <img align="right" alt="Data visual GIF" height=450 width=300 src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" />
+</p>
+
 
 ## 💻 Languages & Tools
 
@@ -24,8 +29,10 @@
 ### 📊 Data Science & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-  <img>
-  
+  <img src="https://cdn.brandfetch.io/matplotlib.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" style="width:48px; height:48px;">
+  <img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" style="width:48px; height:48px;">
+  <img src="https://s3-sgn09.fptcloud.com/codelearnstorage/Upload/Blog/thu-vien-plotly-trong-python-la-gi-63725719077.0314.jpg" style="width:48px; height:48px;">
+  <img src="https://ih1.redbubble.net/image.5124540665.7259/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" style="width: 48px; height: 48px; border-radius: 12px">
 </p>
 
 ---
