@@ -1,5 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4D5DFB,100:1CB5E0&height=200&section=header&text=Hello%20World!%20I'm%20Tran%20Anh%20Kiet&fontSize=30&fontColor=ffffff)
-](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kiet%20Tran%20Anh&reversal=false&section=header&textBg=false&animation=blink&fontAlignY=45)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D5DFB,100:1CB5E0&height=200&section=header&text=Hello%20World!%20I'm%20Tran%20Anh%20Kiet&fontSize=30&fontColor=ffffff">
 
 -----------------------------------------------------------------
 <!DOCTYPE html>
@@ -8,7 +7,7 @@
   <meta charset="UTF-8">
 </head>
 <body style="background-color: #0d1117; color: #c9d1d9; font-family: 'Segoe UI', sans-serif; margin: 20px;">
-
+<img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" style="max-width: 100%" >
   <p>
     🔭 I'm a student at VNU-HCM University of Information Technology.<br>
     💬 Ask me about machine learning and data science.<br>
