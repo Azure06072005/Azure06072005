@@ -23,6 +23,7 @@
   </p>
 
   <h2 style="color: #58a6ff; border-left: 5px solid #58a6ff; padding-left: 10px; margin-top: 40px;">💻 Languages & Tools</h2>
+  <img align="right" height="450" width="300" src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="Illustration">
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
     
@@ -59,23 +60,17 @@
         <img src="https://skillicons.dev/icons?i=vscode" style="width:48px; height:48px;">
         <img src="https://skillicons.dev/icons?i=git" style="width:48px; height:48px;">
       </div>
-    </div>
-
-  <div style="flex: 1 1; text-align: right; max-width: 40%">
-      <img src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="Illustration" style="width: 100%; max-width: 300px; border-radius: 12px;">
-    </div>
-  </div>
-
-
-
 </body>
 </html>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Azure06072005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Azure06072005&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azure06072005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Azure06072005&theme=tokyonight" alt="Azure06072005" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azure06072005&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Azure06072005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azure06072005&show_icons=true&locale=en&theme=tokyonight" alt="Azure06072005" /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Azure06072005&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
